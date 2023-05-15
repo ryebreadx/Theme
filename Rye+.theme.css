@@ -1,0 +1,25 @@
+/**
+  * @name Rye+
+  * @author rye#5011
+  * @version RyeDark+3
+  * @description Highly customized dark and red theme for Discord
+  * @authorId 744210654369677373
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #101010;
+  --darkplus-sec: #cc1444;
+  --darkplus-links: #770425;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/1055001193316880436/1090948328721756161/Rye_no_background_1.png);
+ --watermark-filter-invert: 1000%;
+  --watermark-filter-sepia: 0%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 50%;
+  --watermark-filter-contrast: 100%;
+  --darkplus-emoji-picker-color: 2150deg;
+}
